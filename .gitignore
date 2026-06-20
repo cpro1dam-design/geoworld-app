@@ -1,0 +1,6 @@
+# Logs / divers
+*.log
+
+# Config locale d'outils
+.idea/
+.claude/
